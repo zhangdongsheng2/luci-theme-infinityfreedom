@@ -2300,6 +2300,12 @@ div#cbi-softethervpn.cbi-map .cbi-value div.cbi-value-field font.softethervpn_st
 	padding-top:6px;
 }
 
+/* For luci-app-openclash */
+div#cbi-openclash .select-popup {
+    color: #2c435b !important;
+}
+
+	
 /* For luci-app-homeconnect */
 div#cbi-homeconnect.cbi-map .cbi-value div.cbi-value-field > font.softethervpn_status
 {
